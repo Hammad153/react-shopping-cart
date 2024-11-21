@@ -9,7 +9,7 @@ function Header({user}) {
           <header>
                <div className='container flex'>
                <div>
-                    <Link className='logo '  to={"/"}>Redux_Store</Link>
+                    <Link className='logo '  to={"/"}>Modesty Store</Link>
                </div>
                <nav className='navbar'>
                     <ul className='flex'>

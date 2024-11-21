@@ -4,8 +4,8 @@ import "./Style.css"
 function Footer() {
   return (
     <footer>
-          <p>Redux_Store &copy; 2023 || Powered by React</p>
-          <p>Build with &hearts; by Riteswar</p>
+          <p>Modesty store &copy; 2024</p>
+          <p>Build with &hearts; by DevAhmad</p>
     </footer>
   )
 }
